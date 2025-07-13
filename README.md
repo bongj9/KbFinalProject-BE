@@ -92,6 +92,17 @@
 
 <br/>
 
+## 발표 자료
+<br/>
+[깨비드림조_포트폴리오-압축됨.pdf](https://github.com/user-attachments/files/21204397/_.-.pdf)
+<br/>
+
+## 시현 영상 링크
+<br/>
+https://drive.google.com/file/d/1kLYNTxiIFQpKnoe3ieJOwCp3lneNRPuI/view?usp=drive_link
+<br/>
+
+
 ## 📎 프로젝트 슬로건
 
 > **"깡통 전세? 걱정 끝!  
