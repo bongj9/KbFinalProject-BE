@@ -36,7 +36,7 @@
 | 분야 | 기술 |
 |------|------|
 | 프론트엔드 | Vue.js, Kakao Maps API |
-| 백엔드 | Spring Boot, JPA, MyBatis, REST API |
+| 백엔드 | Spring ,Mysql, MyBatis, REST API |
 | AI 분석 | OpenAI GPT 기반 프롬프트 엔지니어링 |
 | 데이터 수집 | Python, Selenium, BeautifulSoup, 공공데이터 API |
 | 인프라 | AWS EC2, S3, MySQL, Docker, Redis |
@@ -88,7 +88,7 @@
 - ✅ 법률 지식 없이도 계약서 작성 가능
 - ✅ 공인중개사 더블체크를 통한 **신뢰도 보완**
 - ✅ 데이터 축적 기반의 **안전도 평가 고도화** 가능
-- ✅ Redis 캐싱, Docker 배포로 서비스 **확장성 확보**
+
 
 <br/>
 
